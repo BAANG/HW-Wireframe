@@ -11,7 +11,6 @@ h1, p {
     color: #777;
     background-color: #ebebeb;
     width:90%;
-    float: center;
     padding: 20px;
 }
 
@@ -19,16 +18,14 @@ article {
     color: #ebebeb;
     background-color: #777;
     float: center;
-    width: 90%;
+    width: 95%%;
     padding: 10px;
-    margin: auto;
-    margin-bottom: 1.5% 0 1.5% 0;
 }
 
 header, nav, section, aside, footer {
     background-color: #ebebeb;
     color: #777;
-    margin: 0 1.5% 1.5% 1.5%;
+    margin: 0 0 1.5% 1.5%;
 }
 
 header, nav {
@@ -47,24 +44,27 @@ header, nav {
 }
 
 .group {
-    width: 100%;
+    width: 960px;
     clear: both;
     *zoom: 1;
 }
 
 section {
     float: left;
+    margin: 10 0 10 0;
     width: 495px;
-    padding: 20px;
-
+    padding: 10px;
  }
+
 aside {
+    overflow: visible;
     float: right;
     height: 100%;
-    width: 365px;
-    margin-right: 0;
-    box-sizing: border-box;
+    width: 385px;
+    padding: 10px;
+    margin: 0 0 0 10;
  }
+
 footer{
     width: 100%;
     clear: both;
