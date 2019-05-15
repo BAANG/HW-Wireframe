@@ -5,6 +5,7 @@ body {
     background-color: #777;
     text-align: center;
     width: 960px;
+    line-height: 20px;
 }
 
 h1, p {
@@ -18,7 +19,7 @@ article {
     color: #ebebeb;
     background-color: #777;
     float: center;
-    width: 95%%;
+    width: 95%;
     padding: 10px;
 }
 
@@ -37,21 +38,22 @@ header, nav {
 section {
     float: left;
     margin: 0 0 1.5% 1.5%;
+    height: 300px;
     width: 495px;
     padding: 10px;
  }
 
 aside {
-    float: right;
-    height: 100%;
-    width: 390px;
-    padding: 10px 10px 280px 10px;
-    margin: 0 10 1.5% 1.5%;
+    float: left;
+    height: 300px;
+    width: 395px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 1.5% 1.5%;
  }
 
 footer{
     width: 90%;
     clear: both;
     padding: 40px;
-    margin: 10 10 0 10;
+    margin: 10 0 0 10;
 }
