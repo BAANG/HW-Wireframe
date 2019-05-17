@@ -1,2 +1,13 @@
 # HW-Wireframe
-Had an issue aligning the 'aside' float. Upon further research, there might be a more intuitive solution utilizing clearfix and overflow, but as it stands, I just left my current solution as is without exploring how clearfix and overflow would interact with it.
+
+## Description
+This assignment was to create a skeleton and apply basic concepts in formatting a webpage utilizing HTML & CSS.
+
+----
+
+### Technologies Used
+
+* Git
+* HTML
+* CSS 
+----
